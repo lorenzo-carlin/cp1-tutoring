@@ -4,7 +4,7 @@ Welcome to the problem sets for **Computer Programming 1** (BSc in Computer Scie
 
 This repository is structured as an interactive workbook. You don't need to download anything, just click on the sessions below to start reading the problems and practicing.
 
-## 📚 Course Syllabus
+## 📚 Tutoring Sessions
 
 | Session | Link |
 | :--- | :---: |
