@@ -11,6 +11,7 @@ This repository is structured as an interactive workbook. You don't need to down
 | Session 03 | [link](./session-03/README.md) |
 | Session 04 | [link](./session-04/README.md) |
 | Session 05 | [link](./session-05/README.md) |
+| Session 06 | [link](./session-06/README.md) |
 
 > **How it works:** Solutions for each session will be published *after* the tutoring class. Try to write the code yourself before looking at the answers!
 
