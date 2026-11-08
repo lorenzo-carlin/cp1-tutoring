@@ -13,7 +13,7 @@ Pick a problem to start:
 
 ## 🔑 Solutions
 
-* [View Solutions for Session 07](./solutions/README.md)
+* [View Solutions for Session 07](./solutions/)
 
 *(Note: If the link above says "Page not found" or "Available soon", the solutions have not been released yet. They are typically published the day after the tutoring session).*
 
