@@ -8,8 +8,8 @@ A hands-on workbook of C++ problem sets, built to help you learn by doing.
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![University of Trento](https://img.shields.io/badge/University%20of%20Trento-8B1A1A?style=for-the-badge)](https://www.unitn.it/)
-[![Sessions](https://img.shields.io/badge/Sessions-7-2ea44f?style=for-the-badge)](#-sessions)
-[![Exercises](https://img.shields.io/badge/Exercises-22-blueviolet?style=for-the-badge)](#-sessions)
+[![Sessions](https://img.shields.io/badge/Sessions-8-2ea44f?style=for-the-badge)](#-sessions)
+[![Exercises](https://img.shields.io/badge/Exercises-25-blueviolet?style=for-the-badge)](#-sessions)
 
 [📚 Sessions](#-sessions) · [📂 Repository Structure](#-repository-structure) · [💬 Feedback](#-feedback--bug-reports)
 
@@ -50,6 +50,7 @@ Every session includes:
 | **07** | 2026-11-03 | Sorting & command-line arguments | [2 exercises](./session-07/README.md) | [Solutions](./session-07/solutions/) |
 | **08** | 2026-11-10 | Strings & text processing | [2 exercises](./session-08/README.md) | [Solutions](./session-08/solutions/) |
 | **09** | 2026-11-17 | File I/O & record management | [3 exercises](./session-09/README.md) | [Solutions](./session-09/solutions/README.md) |
+| **10** | 2026-11-24 | Linked lists & dynamic memory | [3 exercises](./session-10/README.md) | [Solutions](./session-10/solutions/) |
 
 > ⏳ The solutions for the most recent session are published shortly after the class.
 
@@ -66,7 +67,7 @@ cp1-tutoring/
 │       └── ex01.cpp … ex05.cpp
 ├── session-04/
 ├── …
-├── session-09/
+├── session-10/
 └── README.md              # you are here
 ```
 
